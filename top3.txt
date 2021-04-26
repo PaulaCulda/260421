@@ -1,0 +1,4 @@
+TOP 3: 
+bucatarie - -64.178179
+dormitor - -68.619980
+hol - -69.478945

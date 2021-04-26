@@ -1,0 +1,3 @@
+dormitor -68.619980
+hol -69.478945
+bucatarie -64.178179
